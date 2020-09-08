@@ -8,6 +8,7 @@ public class Basics {
      * 1. What is the difference between collection and data structure?
      * 2. Explain Collection framework.
      * 3. Difference between toArray() and toArray(T[])?
+     * 4. How does equals method work with Collection?
      */
 
 }

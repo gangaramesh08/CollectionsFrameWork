@@ -35,4 +35,10 @@ public class Answers {
      * a new array is created with the same type and size of the given list.
      * ArrayStoreException is thrown if the type of the elements is not the same as the type of the array.
      */
+
+    /**
+     * 4. Equals method compares the given object with the passed object. In List and set, instead of the
+     * reference comparison, value comparison takes place using an iterator. List and Set objects can be compared
+     * only to themselves. The implementations are given inside AbstractList and AbstractSet classes respectively.
+     */
 }
